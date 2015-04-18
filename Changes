@@ -1,0 +1,5 @@
+Revision history for {{$dist->name}}
+
+{{$NEXT}}
+        - initial version
+        - dependencies for App::Bootstrap::Perl

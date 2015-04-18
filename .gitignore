@@ -1,0 +1,6 @@
+.*
+!.gitignore
+Task-Bootstrap-Perl-*
+Debian_CPANTS.txt
+nytprof*
+
