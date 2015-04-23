@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.002     2015-04-23
         - actual CPAN release (again?)
 
 0.001     2015-04-18
