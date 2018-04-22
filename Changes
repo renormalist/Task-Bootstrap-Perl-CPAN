@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.003     2018-04-22
         - renamed into Task::Bootstrap::Perl::CPAN and re-uploaded
 
 0.002     2015-04-23
