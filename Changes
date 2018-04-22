@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - renamed into Task::Bootstrap::Perl::CPAN and re-uploaded
 
 0.002     2015-04-23
         - actual CPAN release (again?)
