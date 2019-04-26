@@ -6,6 +6,8 @@ package Task::Bootstrap::Perl::CPAN;
 
 =pkgroup cpan
 
+=pkg HTTP::Date
+
 =pkg Test::Simple
 
 =pkg List::MoreUtils
